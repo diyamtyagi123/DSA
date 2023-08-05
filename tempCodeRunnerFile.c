@@ -1,0 +1,1 @@
+return search(root->right,key);
